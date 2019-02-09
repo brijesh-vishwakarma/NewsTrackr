@@ -11,3 +11,6 @@ Created by : Brijesh Vishwakarma
 
 ## Layout link
 https://github.com/brijesh-vishwakarma/NewsTrackr
+
+## Host link
+https://brijesh-vishwakarma.github.io/NewsTrackr/
